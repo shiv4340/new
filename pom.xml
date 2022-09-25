@@ -28,7 +28,7 @@
       <url>file:///tmp/maven-project-site</url>
     </site>
   </distributionManagement>
-
+       <!-- demo pratice of webhook -->
   <build>
     <plugins>
       <plugin>
